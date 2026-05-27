@@ -1,0 +1,82 @@
+# Dependencies (e.g., Node.js)
+node_modules/
+
+# Build outputs and temporary files
+dist/
+build/
+*.tmp
+*.log
+
+# Environment variables and secrets
+.env
+.env.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+.venv/
+*.swp# Dependencies (e.g., Node.js)
+node_modules/
+
+# Build outputs and temporary files
+dist/
+build/
+*.tmp
+*.log
+
+# Environment variables and secrets
+.env
+.env.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.swp# Dependencies (e.g., Node.js)
+node_modules/
+
+# Build outputs and temporary files
+dist/
+build/
+*.tmp
+*.log
+
+# Environment variables and secrets
+.env
+.env.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.swp# Dependencies (e.g., Node.js)
+node_modules/
+
+# Build outputs and temporary files
+dist/
+build/
+*.tmp
+*.log
+
+# Environment variables and secrets
+.env
+.env.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.swp
